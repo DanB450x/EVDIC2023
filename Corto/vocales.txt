@@ -1,0 +1,11 @@
+Resultados del conteo de vocales:
+a: 0 veces
+e: 1 veces
+i: 0 veces
+o: 2 veces
+u: 0 veces
+á: 0 veces
+é: 0 veces
+í: 0 veces
+ó: 0 veces
+ú: 0 veces

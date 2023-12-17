@@ -1,0 +1,2 @@
+Resultados del historial:
+(1, 'círculo', 50.2654824574367)

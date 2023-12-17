@@ -1,0 +1,3 @@
+ID: 1, Número Mayor: 35, Número Menor: 25
+ID: 2, Número Mayor: 55, Número Menor: 45
+ID: 3, Número Mayor: 45, Número Menor: 25
